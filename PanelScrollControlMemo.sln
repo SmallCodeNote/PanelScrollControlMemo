@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelScrollControlMemo", "PanelScrollControlMemo\PanelScrollControlMemo.csproj", "{4452F77A-E615-4921-9159-4BC801AF86EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4452F77A-E615-4921-9159-4BC801AF86EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4452F77A-E615-4921-9159-4BC801AF86EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4452F77A-E615-4921-9159-4BC801AF86EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4452F77A-E615-4921-9159-4BC801AF86EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F330E21-5897-49CA-B08E-2E63FB04D34D}
+	EndGlobalSection
+EndGlobal
